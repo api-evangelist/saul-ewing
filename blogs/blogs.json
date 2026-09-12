@@ -2,10 +2,6 @@
   "repo": "saul-ewing",
   "feeds": [
     {
-      "source": "https://www.saul.com/events",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://www.saul.com/blogs/construction-industry-counselor",
       "error": "HTTPError"
     },
@@ -16,8 +12,12 @@
     {
       "source": "https://www.saul.com/blogs/legacy-matters",
       "error": "HTTPError"
+    },
+    {
+      "source": "https://www.saul.com/events",
+      "error": "HTTPError"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-08-30T22:33:40Z"
+  "fetched": "2026-09-06T19:17:18Z"
 }
